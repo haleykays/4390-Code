@@ -28,3 +28,5 @@ C:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.Vi
 C:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 C:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+C:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+c:\4390\AssignmentThree\tutorialone\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
